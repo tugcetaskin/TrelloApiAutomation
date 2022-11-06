@@ -1,5 +1,6 @@
-#Trello Api Automation
-##Senaryo Adımları
+# Trello Api Automation
+
+## Senaryo Adımları
 
 - Trello üzerinde bir board oluşturunuz.
 - Oluşturduğunuz board’ a iki tane kart oluşturunuz.
